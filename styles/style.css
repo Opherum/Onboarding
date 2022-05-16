@@ -23,6 +23,7 @@ body, html {
 
 .carousel .carousel-image img {
   width: 100%;
+  max-height: 78%;
 }
 
 .carousel .carousel-image h2 {
